@@ -1,2 +1,14 @@
 pyspark-dev-env/
-
+sigma-cicd-op/
+Tableau/
+Scripts/
+dataset_model.json
+export_datamodel_json.ipynb
+generate_api_token.ps1
+plug_electronics_data_model.html
+plug_electronics_sales_dashboard.html
+sigma.json
+test.json
+ConfigFiles/
+PipFile.*
+Pipfile
